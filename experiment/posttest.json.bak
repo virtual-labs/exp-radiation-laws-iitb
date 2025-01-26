@@ -11,7 +11,7 @@
 
     {
         "question": "Radiation strikes an object with tansmissivity of 0.05 and reflectivity 0.4, the absorbed flux is indirectly measured as 104W/m2. Calculate the heat transfer?<br> &alpha; = Absorbed flux(Q_a) / Incident flux (Q)",
-        "qid": 1,
+        "qid": 2,
         "option_a": "187.08",
         "option_b": "163.23",
         "option_c": "125.44",
