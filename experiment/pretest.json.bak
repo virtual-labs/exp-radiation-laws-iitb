@@ -1,11 +1,39 @@
 [
+
     {
-        "question": "Sample Question",
+        "question": "The absorptivity is given by",
         "qid": 1,
-        "option_a": "Option A",
-        "option_b": "Option B",
-        "option_c": "Option C",
-        "option_d": "Option D",
+        "option_a": "$$ \\alpha = \\frac{3}{Q_a} $$",
+        "option_b": "$$ \\alpha = \\frac{Q_a}{Q} $$",
+        "option_c": "$$ \\alpha = \\frac{3Q_a}{Q} $$",
+        "option_d": "$$ \\alpha = \\frac{Q}{Q_a} $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "Reflectivity is given by",
+        "qid": 2,
+        "option_a": "$$ \\gamma  = \\frac{Q_r}{Q} $$",
+        "option_b": "$$ \\gamma  = \\frac{3}{Q_r} $$",
+        "option_c": "$$ \\gamma  = \\frac{Q}{Q_r} $$",  
+        "option_d": "$$ \\gamma  = \\frac{3Q_r}{Q} $$",
         "correct_option": "a"
+    },
+    {
+        "question": "Transmissivity is given by",
+        "qid": 3,
+        "option_a": "$$ \\tau  = \\frac{3Q_t}{Q} $$",
+        "option_b": "$$ \\tau  = \\frac{Q_t}{Q} $$",
+        "option_c": "$$ \\tau  = \\frac{3}{Q_t} $$",
+        "option_d": "$$ \\tau  = \\frac{Q}{Q_t} $$",  
+        "correct_option": "b"
+    },
+    {
+        "question": "Stefan Boltzmann's constant is given by",
+        "qid": 4,
+        "option_a": "$$ \\sigma = 5.69 \\times 10^{-7} \\ \\ W/m^3K^5 $$",
+        "option_b": "$$ \\sigma = 5.67 \\times 10^{-7} \\ \\ W/m^3K^5 $$",
+        "option_c": "$$ \\sigma = 5.69 \\times 10^{-8} \\ \\ W/m^2K^4 $$",
+        "option_d": "$$ \\sigma = 5.67 \\times 10^{-8} \\ \\ W/m^2K^4 $$",
+        "correct_option": "d"
     }
 ]
